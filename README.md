@@ -12,7 +12,8 @@
 
   ##
   
-  `` Life is like riding a bicycle, to keepyour balance, you must keep mooving.``  
+  `` 
+  Life is like riding a bicycle, to keepyour balance, you must keep mooving.``  
     
 ![githubgif](https://user-images.githubusercontent.com/99266550/160170518-eb47be3c-810f-4030-8f83-715bf9ebca12.gif)
 
