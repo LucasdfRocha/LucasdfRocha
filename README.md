@@ -1,6 +1,6 @@
 ### Hi there, Lucas here 👋
 
-• 📚     Undergraduate at Cesar School.                                                                                                                                          
+• 📚    Studying computer science at Cesar School.                                                                                                                                          
 • 👨‍💻  my goal is to be able to always be learning about the coding/programming since it is what i always wanted to work with.                      
 • 📈 I'm on github because i want to make a historic archive, showing my evolution as a student and serve as an example for others students.        
 • 🎮 When talking about hobbies, i like playing games, Studying math and watching anime.                                                        
