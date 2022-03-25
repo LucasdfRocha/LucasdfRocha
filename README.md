@@ -1,11 +1,10 @@
 ### Hi there, Lucas here 👋
 
-•📚     Undergraduate at Cesar School.                                                                                                                                          
+• 📚     Undergraduate at Cesar School.                                                                                                                                          
 • 👨‍💻  my goal is to be able to always be learning about the coding/programming since it is what i always wanted to work with.                      
 • 📈 I am on github because i want to make a historic archive, showing my evolution as a student and serve as an example for others students.        
-• 🎮 When talking about hobbies, i like playing games, Studying math and watching anime.
-
-•💬 If you want to contact me, try my email!
+• 🎮 When talking about hobbies, i like playing games, Studying math and watching anime.                                                        
+• 💬 If you want to contact me, try my email!
 <div>
   <a href = "mailto:lucasfreitasrocha1@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
  </div>
