@@ -3,7 +3,7 @@
 •📚     Undergraduate at Cesar School.                                                                                                                                          
 • 👨‍💻  my goal is to be able to always be learning about the coding/programming since it is what i always wanted to work with.                      
 • 📈 I am on github because i want to make a historic archive, showing my evolution as a student and serve as an example for others students.        
-• 🎮 Talking about hobbies, i like playing games,specially with friends, Studying math and watching anime! 
+• 🎮 When talking about hobbies, i like playing games,Studying math and watching anime.
 
 •If you want to contact me, try my email!
 <div>
