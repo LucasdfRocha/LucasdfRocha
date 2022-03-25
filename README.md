@@ -10,9 +10,9 @@
   <a href = "mailto:lucasfreitasrocha1@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
  </div>
 
-
-  `` Life is like riding a bicycle, to keepyour balance, you must keep mooving.``
-  ##   
+  ##
+  
+  `` Life is like riding a bicycle, to keepyour balance, you must keep mooving.``  
     
 ![githubgif](https://user-images.githubusercontent.com/99266550/160170518-eb47be3c-810f-4030-8f83-715bf9ebca12.gif)
 
