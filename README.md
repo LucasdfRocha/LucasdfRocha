@@ -4,7 +4,9 @@
 • 👨‍💻  my goal is to be able to always be learning about coding/programming since it is what i always wanted to work with.                      
 • 📈 I'm on github because i want to make a historic archive, showing my evolution as a student and serve as an example for others students.        
 • 🎮 When talking about hobbies, i like playing games, Studying math and watching anime.                                                        
-• 💬 If you want to contact me, try my email!
+• 💬 If you want to contact me, you can try:
+  my email: ldfr@cesar.school
+  linkedin: 
 
   ##
     
