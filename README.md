@@ -10,10 +10,10 @@
 
   ##
     
-    Life is like riding a bicycle, to keep your balance you must keep mooving.
+    “Are we friends? Or are we foes? Tha kind of thing you decide for yourselves!”
  
     
-![githubgif](https://user-images.githubusercontent.com/99266550/160170518-eb47be3c-810f-4030-8f83-715bf9ebca12.gif)
+  <div align="center"><img width = 65% height = 50% src = "https://staticg.sportskeeda.com/editor/2022/07/519fa-16586727111936-1920.jpg"><div/>
 
 --------------------------------------------------------------------------------------------------
 
