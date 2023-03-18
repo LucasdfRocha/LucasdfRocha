@@ -12,24 +12,23 @@
   
     
     “Are we friends? Or are we foes? Tha kind of thing you decide for yourselves!”
+    
  
     
-  <div align="center"><img width = 65% height = 50% src = "https://staticg.sportskeeda.com/editor/2022/07/519fa-16586727111936-1920.jpg"><div/>
-
+  <div align="left"><img width = 65% height = 50% src = "https://staticg.sportskeeda.com/editor/2022/07/519fa-16586727111936-1920.jpg"><div/>
+ 
 --------------------------------------------------------------------------------------------------
 
-• Current Working on
-<div style = "display inline_block">
- 
-  <img align = "center" alt = "Lucas-Python" height = "30" widh = "40" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <h3 align="left">•Currently Working on </h3>
 
- <img align = "center" alt = "Lucas-C" height = "30" width = "50" src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<div align="left">
  
- <img align = "center" alt = "Lucas-git" height = "30" widh = "40" src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-   </div>
-<img align = "center" alt = "Lucas-Linux" height = "30" widh = "40" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- 
- <img align = "center" alt = "Lucas-Vscode" height = "30" widh = "40" src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+ <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+ <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
+<img  src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
  </div>
+
 
