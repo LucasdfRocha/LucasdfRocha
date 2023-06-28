@@ -19,7 +19,7 @@
  
 --------------------------------------------------------------------------------------------------
 
- <h3 align="left">•Currently Working on </h3>
+ <h3 align="left">• Currently Working on </h3>
 
 <div align="left">
  
