@@ -15,8 +15,8 @@
     
  
     
-  <div align="left"><img width = 65% height = 50% src = "https://staticg.sportskeeda.com/editor/2022/07/519fa-16586727111936-1920.jpg"><div/>
- 
+ ![teste](https://github.com/LucasdfRocha/LucasdfRocha/assets/99266550/9e9b95eb-ffde-4094-9f22-770376b41c83)
+
 --------------------------------------------------------------------------------------------------
 
  <h3 align="left">• Currently Working on </h3>
