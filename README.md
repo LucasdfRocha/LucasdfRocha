@@ -28,16 +28,3 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<img src = "https://github-readme-stats.vercel.app/api?username=LucasdfRocha&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
----
-
-> _“Are we friends? Or are we foes? That kind of thing you decide for yourselves!”_
-
-<img src="https://github.com/LucasdfRocha/LucasdfRocha/assets/99266550/9e9b95eb-ffde-4094-9f22-770376b41c83" alt="quote image">
-
----
