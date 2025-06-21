@@ -1,7 +1,7 @@
 ### Hi there, Lucas here 👋
 
 • 📚    Studying computer science at Cesar School.                                                                                                                                          
-• 👨‍💻 I'm currently working as a AI development intern @ Amigo Tech.                      
+• 👨‍💻 I'm currently working as a AI developer @ Amigo Tech.                      
 • 📈 I'm on github because i want to make a historic archive, showing my evolution as a student and serve as an example for others students.        
 • 🎮 When talking about hobbies, I like playing games, Studying math and watching anime.                                                        
 • 💬 how to reach me: [Linkedin (Lucas Rocha)](https://www.linkedin.com/in/lucas-rocha-603683246/) / [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMTGfBjkVScXCpdZFTJdMGCdxLZNwDcQNBpMQZzXVwfzDmvQLkQxqTSlqrJCvZXTlqScJH) <br>
